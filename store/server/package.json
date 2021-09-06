@@ -1,0 +1,52 @@
+енпщеоекррооиптпалроапшосеншеволллллллллллллллллллллллллллллллллллллллллллллл с
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+еппапавоакпевапкптикворещвпиещрифпшркеышрыукшпомшыукшкаплкыпощкеруквопаопщоепркеект укатепалд{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "ts-node-dev --respawn --transpile-only  index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.12",
+    "@types/mongoose": "^5.11.97",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14",
+    "ts-node-dev": "^1.1.6"
+  }
+}
